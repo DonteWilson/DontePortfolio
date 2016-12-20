@@ -23,4 +23,4 @@ Hello, my name is Donte' Wilson and I've always dreamed of becoming a part of th
 
 <a href="https://dontewilson.github.io/Physics/">
 <h4>Boids Simulation</h4>
-<img src="images/Boids.jpg" alt="Boids" style="width:400px;height:250px;"></a>
+<img src="images/Boids.jpg" alt="Boids" style="width:400px;height:250px;"></img></a>
