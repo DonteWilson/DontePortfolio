@@ -12,6 +12,7 @@ Hello, my name is Donte' Wilson and I've always dreamed of becoming a part of th
 
 
 ##Skills
+
 ###Coding Skills: C++, Python, C#
 ###Exposed To: Visual Studio, Unity3D, Github, Trello, Design Patterns, Publisher/Subscriber, OpenGL, GLEW, GLFW
 
